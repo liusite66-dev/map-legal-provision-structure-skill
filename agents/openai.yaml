@@ -1,0 +1,4 @@
+interface:
+  display_name: "法律条文体系化图谱"
+  short_description: "构建法规层级树、引用网络和可追溯底表"
+  default_prompt: "使用 $map-legal-provision-structure-skill 为这批法规材料生成条文结构图谱。"

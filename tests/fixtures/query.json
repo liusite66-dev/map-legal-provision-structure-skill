@@ -1,0 +1,8 @@
+{
+  "title": "甲乙法规结构分析",
+  "mode": "network",
+  "materials": [
+    {"file": "法规甲.txt", "label": "甲法规现行文本", "version_label": "用户提供版本A"},
+    {"file": "法规乙.txt", "label": "乙法规现行文本", "version_label": "用户提供版本A"}
+  ]
+}
